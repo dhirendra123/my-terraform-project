@@ -1,0 +1,12 @@
+# Local Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Crash logs
+crash.log
+
+# .terraform directory (provider plugins)
+.terraform/
+
+# Any sensitive files (if you used credentials)
+*.pem
