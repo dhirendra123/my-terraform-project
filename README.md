@@ -33,7 +33,7 @@ This project demonstrates how to use **Terraform** to provision an **AWS EC2 ins
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/dhirendra123/terraform-aws-ec2.git
+   git clone https://github.com/dhirendra123/my-terraform-project.git
    cd terraform-aws-ec2
 
 2. Initialize Terraform
